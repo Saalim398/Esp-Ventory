@@ -1,6 +1,6 @@
 # Esp-Ventory
 
-### This is my C++ project from the second semester of my autumn 2024 computer science and engineering course.
+### This is my C++ project from the third semester of my autumn 2024 computer science and engineering course.
 
 
 ## ESP32 Inventory Management System with Google Firebase

@@ -1,1 +1,2 @@
-
+This folder contains the java and xml file for our android app.   
+MainActivity.java is the main java file that android app runs,Inventory.java is a model of inventory, and FirebaseHelper.java performs CRUD operations.

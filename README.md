@@ -59,17 +59,6 @@ This repository contains the source code for an **IoT-based Inventory Management
 3. The system will log the scanned item details in Firebase.
 4. Use the Android app or Firebase console to view, update, or delete inventory records.
 
----
-
-## Project Structure
-- **/arduino-code**: Contains the ESP32 source code.
-- **/android-app**: Optional Android app for database interaction.
-- **/docs**: Additional documentation and schematics.
-
----
-
-## Contribution
-Contributions are welcome! If you'd like to improve the system or add new features, feel free to fork this repository and submit a pull request.
 
 ---
 
